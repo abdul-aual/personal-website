@@ -1,0 +1,82 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.ptag
+{
+    text-align: justify;
+}
+#header-section
+{
+    background-image: url(personal-website/header-bg.png);
+    
+    height: 800px;
+    margin-bottom: 10px;
+}
+#smith
+{
+    color:#fe019a;
+    font-size: 50px;
+}
+.half-width
+{
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 100px;
+    float: left;
+    
+}
+.half-width img, .biodiv img{
+    width:100%;
+}
+.button
+{
+    background-color: #fe019a;
+    padding: 10px 25px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 10px;
+    
+    
+}
+#biography-section
+{
+    background-image: url(personal-website/biography-bg.png);
+    height: 800px;
+    
+
+
+
+}
+.biodiv
+{
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float:left;
+    
+
+}
+#biodiv2
+{
+    margin-top: 150px;
+}
+
+.lastdiv
+{
+    width:30%;
+    margin-left:2%;
+    padding-left: 1%;
+    
+    float:left;
+    
+
+
+}
+.lastdiv img{
+    width: 100%;
+    
+    
+    
+}
