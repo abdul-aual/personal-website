@@ -81,8 +81,12 @@ body{
 }
 .lastwork
 {
+    background-image: url(personal-website/latest-work-bg.png);
     
     height: 500px;
+    
+    
+    
 
 }
 .lastdiv img{
@@ -94,7 +98,27 @@ body{
 
 .footer
 {
+
+    
     
     text-align: center;
     
+    
+    
+
+
+    background-image: url(personal-website/footer-bg.png);
+  
+  background-size: cover;
+  
+    
 }
+.footer img{
+    width:100%;
+    height: 100%;
+}
+.footdiv
+{
+    margin-top: 150px;
+}
+
